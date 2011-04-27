@@ -1,12 +1,3 @@
-/*
- *  UIKitDefines.h
- *  UIKit
- *
- *  Created by Derek van Vliet on 11-04-25.
- *  Copyright 2011 Get Set Games. All rights reserved.
- *
- */
-
 #import <Availability.h>
 
 #ifdef __cplusplus
